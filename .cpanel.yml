@@ -1,5 +1,5 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/ghsxsomy/public_html/
+    - export DEPLOYPATH=/home/ghsxsomy/public_html/chiragvaghela-bifront-in/
     - /bin/cp index.html $DEPLOYPATH
